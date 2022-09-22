@@ -1,0 +1,58 @@
+{
+    "workbench.colorTheme": "Noctis Minimus",
+    "latex-workshop.view.pdf.viewer": "external",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "right"
+    },
+    "notebook.lineNumbers": "on",
+    "cSpell.userWords": [
+        "arctan",
+        "fitns",
+        "hyperelastic",
+        "isoparametric",
+        "Ligthart",
+        "matplotlib",
+        "pyplot",
+        "Raphson",
+        "Stellenbosch",
+        "Undeformed"
+    ],
+    "python.formatting.provider": "black",
+    "python.analysis.typeCheckingMode": "off",
+    "jupyter.askForKernelRestart": false,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16,
+    "editor.mouseWheelZoom": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": false,
+        "source.organizeImports": true,
+    },
+    "grammarly.config.documentDomain": "academic",
+    "grammarly.files.include": [
+        "**/readme.md",
+        "**/README.md",
+        "**/notes.md",
+        "**/*.txt",
+        "**/*.tex"
+    ],
+    "[latex]": {
+        "editor.defaultFormatter": "mathematic.vscode-latex"
+    },
+    "terminal.integrated.fontSize": 10,
+    "terminal.integrated.inheritEnv": false,
+    "grammarly.config.documentDialect": "british",
+    "grammarly.config.suggestions.ConjunctionAtStartOfSentence": true,
+    "grammarly.config.suggestions.InformalPronounsAcademic": true,
+    "grammarly.config.suggestions.OxfordComma": true,
+    "grammarly.config.suggestions.PassiveVoice": true,
+    "grammarly.config.suggestions.PrepositionAtTheEndOfSentence": true,
+    "grammarly.config.suggestions.StylisticFragments": true,
+    "grammarly.config.suggestions.UnnecessaryEllipses": true,
+    "grammarly.startTextCheckInPausedState": true,
+    "explorer.sortOrder": "type",
+    "python.defaultInterpreterPath": "/home/philipl/.miniconda/bin/python",
+    "notebook.undoRedoPerCell": false,
+    "window.zoomLevel": 1
+}
