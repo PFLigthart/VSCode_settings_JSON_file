@@ -1,0 +1,10 @@
+The settings.json file uses extensions and expects certain libraries to be available.
+
+Libraries:
+
+black -> linting
+
+Extensions:
+
+'Noctis' by Liviu Schera -> This is the theme extension required.
+'Latex language support' by Long Nhat Nguyen -> This is to write Latex documents in VSCode.
